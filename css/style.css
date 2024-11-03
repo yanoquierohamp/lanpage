@@ -1,4 +1,5 @@
 /*--------------Barrra de navegacion------------*/
+
 .navbar{
     padding: 1rem; ;
 }
@@ -21,8 +22,18 @@ border-color:#1abc9c;
 .btn-primary:hover{
     background-color:#16a085;
 }
+
 /*----------Seccion de introduccion-----------*/
 /*----------Seccion de nosotros----------*/
+#features{
+    background-color: #f8f9fa;
+padding:60px 0;
+}
+.feature.icon{
+    width:100%;
+    height:auto;
+    margin-bottom:15px;
+}
 /*-------------seccion de caracteristicas-------*/
 /*----------Seccion de Testimonios------*/
 /*--------seccion de Equipo---------*/
